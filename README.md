@@ -20,4 +20,5 @@ ETL
 
 Scatterplot/Plane of best fit
 
-
+## Aspect 2: Analysis of intensity based on location.  Visualizing which areas located by the Atlantic Ocean are more at risk for Hurricanes
+Tableau: We will visualize the paths of each storm along with each date.  The data used in this graph will cover data from 2010-2015.  This will show the areas that are at a higher risk of being hit by Hurricanes.  This will also show where in the Atlantic ocean each storm originated from and which stoms made landfall.    

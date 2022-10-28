@@ -1,6 +1,7 @@
 # Final_Project
 Group 3
 
+Using hurricane data in the Atlantic Ocean from 1851-2014 https://www.kaggle.com/datasets/noaa/hurricane-database.   
 Analysis of intensity: Using available data, is there a change in intensity since 1851?
 Focus on the following columns: ID, Name, Date, Time, Event, Status, Latitude, Longitude, Maximum Wind
 ETL

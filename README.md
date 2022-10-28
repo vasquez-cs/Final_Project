@@ -16,7 +16,7 @@ ETL
 - Change Event and Status to numbers
 - Review records
 - No nulls/missing data
-- Each ID has at least 
+- import to local database
 
 Scatterplot/Plane of best fit
 

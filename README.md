@@ -22,3 +22,7 @@ Scatterplot/Plane of best fit
 
 ## Aspect 2: Analysis of intensity based on location.  Visualizing which areas located by the Atlantic Ocean are more at risk for Hurricanes
 Tableau: We will visualize the paths of each storm along with each date.  The data used in this graph will cover data from 2010-2015.  This will show the areas that are at a higher risk of being hit by Hurricanes.  This will also show where in the Atlantic ocean each storm originated from and which stoms made landfall.    
+
+
+## Aspect 3: Analysis of intensity at landfall: 
+Using windspeed data, minimun pressure, latitude, longitude, date and status we will determine which areas have more landfalls as well as which storms carry the most intensity. Using matplotlib, pandas and postgres we will sort through and clean the data of any null values and columns that provide no value to the analysis and map the data point to a boxplot or whichever graph will make the visualization more clear. For this analysis we will be using the data from the modern era (2004-2014) since it provides the most information on landfall as well as windspeeds.

@@ -38,3 +38,10 @@ Using K-Means clustering as a predicitve model, we will predict patterns and tre
 
 ## Aspect 3: Analysis of intensity at landfall: 
 Using windspeed data, minimun pressure, latitude, longitude, date and status we will determine which areas have more landfalls as well as which storms carry the most intensity. Using matplotlib, pandas and postgres we will sort through and clean the data of any null values and columns that provide no value to the analysis and map the data point to a boxplot or whichever graph will make the visualization more clear. For this analysis we will be using the data from the modern era (2004-2014) since it provides the most information on landfall as well as windspeeds.
+
+- Clear the data set of unnecessary columns
+- Using Geopy covert the Latitude and Longitude values into the names of the states
+- Possibly parse the "Date" column into 3 seperate columns 
+- Remove the null values from the windspeed categories
+- Adding the state names to the dataset
+- Using matplotlib create visualizations for the intensity at landfall

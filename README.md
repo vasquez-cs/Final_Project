@@ -21,7 +21,19 @@ ETL
 Scatterplot/Plane of best fit
 
 ## Aspect 2: Analysis of intensity based on location.  Visualizing which areas located by the Atlantic Ocean are more at risk for Hurricanes
-Tableau: We will visualize the paths of each storm along with each date.  The data used in this graph will cover data from 2010-2015.  This will show the areas that are at a higher risk of being hit by Hurricanes.  This will also show where in the Atlantic ocean each storm originated from and which stoms made landfall.    
+Tableau: We will visualize the paths of each storm along with each date.  The data used in this graph will cover data from 2010-2015.  This will show the areas that are at a higher risk of being hit by Hurricanes.  This will also show where in the Atlantic ocean each storm originated from and which stoms made landfall.
+
+MLM:
+Using K-Means clustering as a predicitve model, we will predict patterns and trends in the hurricane data. 
+
+- Remove unnecessary columns
+- Change latitude and longitude into integers
+- Make longitude a negative value
+- Split Date column into Year, Month, and Day
+- Change Time column into Hours
+- Create Timestamp column
+- Run K-Means Algorithm 
+
 
 
 ## Aspect 3: Analysis of intensity at landfall: 

@@ -16,6 +16,7 @@ ETL
 - Review records
 - No nulls/missing data
 - import to local database
+- Pull for analysis
 
 Visualizations: Scatterplot with a plane of best fit for singular regression and 3d model for multiple linear regression.
 

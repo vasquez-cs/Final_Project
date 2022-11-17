@@ -33,6 +33,7 @@ Using K-Means clustering, we will analyze and predict patterns and trends in the
 - Change Time column into Hours
 - Create Timestamp column
 - Run K-Means Algorithm 
+- Data storage using AWS S3 bucket
 
 
 

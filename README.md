@@ -47,5 +47,5 @@ Using windspeed data, minimun pressure, latitude, longitude, date and status we 
 - Adding the state names to the dataset
 - Using matplotlib create visualizations for the intensity at landfall
 
-### Presentation Draft
+### Presentation
 https://docs.google.com/presentation/d/13uS-MN0qyaHc5D-0PjPe8hPXtLi8QyzrPvhVegeT3_o/edit?usp=sharing

@@ -32,6 +32,8 @@ class ReverseGeocoder:
             return res
         else:
             return None
+        
+        source: https://github.com/maksimKorzh/one-time-scrapers/blob/master/scrapers/reverse_geocoding/reverse_geocoding.py
     
     def parse(self, res, lon, lat):
         data = res['features'][0]['properties']['geocoding']

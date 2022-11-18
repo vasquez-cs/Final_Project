@@ -1,6 +1,0 @@
-
-## Aspect 2: Analysis of intensity: Using available data, is there a change in intensity since 1852?
-- Multiple_linear_reg_hurricane_3d
-- Multiple_linear_reg_cyclone_3d
-- Linear_reg_hurricane_2d
-- Linear_reg_cyclone_2d

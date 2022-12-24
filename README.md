@@ -4,7 +4,7 @@
 ## Data
 - Using hurricane data in the Atlantic Ocean from 1851-2014 https://www.kaggle.com/datasets/noaa/hurricane-database.
 
-- Based on recent hurricane news, as a group we thought it would be interesting to see different aspects of hurricane intesnsity.
+- Based on recent hurricane news, as a group we thought it would be interesting to see different aspects of hurricane intensity.
 
 ## Aspect 1: Analysis of intensity based on location and date.  
 Visualizing which areas located by the Atlantic Ocean are more at risk for Hurricanes.  Using Tableau, we will visualize the paths of each storm along with each date.  The data used in this graph will cover data from 2010-2015.  This will show the areas that are at a higher risk of being hit by Hurricanes.  This will also show where in the Atlantic ocean each storm originated from and which stoms made landfall.
